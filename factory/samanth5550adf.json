@@ -1,0 +1,9 @@
+{
+	"name": "samanth5550adf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d51dc41-4425-4962-a7dc-03fbda85c3b9",
+		"tenantId": "0499fb24-9553-48fb-b550-b0a31cb69760"
+	}
+}
